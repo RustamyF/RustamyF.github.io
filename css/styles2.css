@@ -1,0 +1,42 @@
+body{
+	background-color:#f4f4f4;
+	color:#555555;
+	font-family: Arial;
+	line-height:1.6em;
+	font-size:16px;
+	
+	
+}
+
+.container{
+	width:70%;
+	margin:auto;
+	overflow:hidden;
+	padding:16px
+}
+
+
+#main-header{
+	color:white;
+	text-align:center;
+	background-image:url('../images/Neural-Backgound.jpg');
+	height: 200px;
+	width: 100%;
+	margin: auto;
+}
+.half{
+	display: block;
+    position: relative;
+    left: 10%;
+	
+}
+.objective{
+	display: block;
+    position: relative;
+    left: 20%;
+	
+}
+.container h4{
+	position: relative;
+    left: 30%;
+}
