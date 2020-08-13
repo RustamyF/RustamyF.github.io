@@ -6,13 +6,16 @@ body{
 	font-size:16px;
 	
 	
+	
 }
 
 .container{
 	width:70%;
 	margin:auto;
 	overflow:hidden;
-	padding:16px
+	padding:16px;
+
+	
 }
 
 
@@ -42,9 +45,11 @@ body{
     left: 15%;
 }
 .objective{
+	position:absolute
 	display: block;
-    position: relative;
-    left: 20%;
+    margin: auto;
+	width: 60%
+
 	
 }
 .container h4{
